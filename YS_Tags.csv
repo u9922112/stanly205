@@ -1,0 +1,74 @@
+id,pid,name,icon,iconkde
+1,0,_Digikam_Internal_Tags_,,
+2,1,Current Version,,
+3,1,Version Always Visible,,
+4,0,Species,,
+6,1,Need Resolving History,,
+7,1,Need Tagging History Graph,,
+12,1,Color Label None,,
+13,1,Color Label Red,,
+14,1,Color Label Orange,,
+15,1,Color Label Yellow,,
+16,1,Color Label Green,,
+17,1,Color Label Blue,,
+18,1,Color Label Magenta,,
+19,1,Color Label Gray,,
+20,1,Color Label Black,,
+21,1,Color Label White,,
+22,1,Pick Label None,,
+23,1,Pick Label Rejected,,
+24,1,Pick Label Pending,,
+25,1,Pick Label Accepted,,
+26,1,Original Version,,
+30,4,1山羌,,
+31,4,2臺灣水鹿,,
+32,4,3臺灣野山羊,,
+33,4,4臺灣野豬,,
+34,4,5臺灣獼猴,,
+35,4,6食蟹a,,
+36,4,7黃喉貂,,
+37,4,8黃鼠狼,,
+38,4,9鼬獾,,
+39,4,10白鼻心,,
+40,4,11竹雞,,
+41,4,12深山竹雞,,
+42,4,13藍腹鷴,,
+43,4,14帝稚,,
+44,4,15赤腹松鼠,,
+45,4,16大赤鼯鼠,,
+46,4,17白面鼯鼠,,
+48,0,Sex,,
+49,48,male,,tag
+50,48,female,,tag
+51,0,Individual,,smiley
+53,51,I2,,tag
+54,51,I3,,tag
+55,51,I4,,tag
+56,51,I5,,tag
+57,0,Status,,smiley
+58,57,Reference,,tag
+59,57,Check,,tag
+60,57,Unknown,,tag
+61,4,o鳥綱,,tag
+62,4,s鼠科,,tag
+63,4,r研究人員,,tag
+64,0,Unconfirmed,,
+65,0,Ignored,,
+66,4,d犬科,,tag
+67,51,I6,,tag
+68,4,20長吻松鼠,,tag
+69,4,18條紋松鼠,,
+70,0,Camera,,
+71,70,N01,,smiley
+72,70,N02,,smiley
+73,70,N03,,smiley
+74,70,S02,,smiley
+76,70,N04,,
+77,70,N05,,
+78,70,S01,,
+79,70,S03,,
+80,70,S04,,
+81,70,S05,,
+82,0,Age,,
+83,82,Adult,,
+84,82,Young,,
